@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0781828e-5c2c-448f-8609-6479f6ab7708" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro_kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Name.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/db.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/factorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/infixxx.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Eight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Eighteen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Eleven.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/FifthTeen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/First_To_Fifth.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/FourthTeen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Nine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/NineTeen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Seven.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/SevenTeen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Six.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Sixteen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Ten.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/ThirthTeen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Twelve.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/Twenty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/TwentyOne.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro_excercises/TwentyTwo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tail_recursion.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GzGNle1lw7ZnXAdOu7vUvoR3Cw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.TwentyOneKt">
+    <configuration name="EighteenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro_excercises.EighteenKt" />
+      <module name="intro_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tail_recursionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tail_recursionKt" />
+      <module name="intro_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwentyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro_excercises.TwentyKt" />
+      <module name="intro_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwentyOneKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro_excercises.TwentyOneKt" />
+      <module name="intro_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwentyTwoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro_excercises.TwentyTwoKt" />
+      <module name="intro_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TwentyOneKt" />
+        <item itemvalue="Kotlin.TwentyKt" />
+        <item itemvalue="Kotlin.EighteenKt" />
+        <item itemvalue="Kotlin.Tail_recursionKt" />
+        <item itemvalue="Kotlin.TwentyTwoKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0781828e-5c2c-448f-8609-6479f6ab7708" name="Changes" comment="" />
+      <created>1667383985171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667383985171</updated>
+      <workItem from="1667383987063" duration="9861000" />
+      <workItem from="1667459777158" duration="11168000" />
+      <workItem from="1667490436532" duration="544000" />
+      <workItem from="1667509367152" duration="125000" />
+      <workItem from="1667534397431" duration="10706000" />
+      <workItem from="1667655557123" duration="1715000" />
+      <workItem from="1667775350736" duration="599000" />
+      <workItem from="1667776623280" duration="14000" />
+      <workItem from="1667853507102" duration="445000" />
+      <workItem from="1667993952054" duration="600000" />
+      <workItem from="1668108666722" duration="356000" />
+      <workItem from="1668766077227" duration="9747000" />
+      <workItem from="1668848970853" duration="6346000" />
+      <workItem from="1669032069932" duration="2218000" />
+      <workItem from="1669305787538" duration="9114000" />
+      <workItem from="1669360475250" duration="14300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
